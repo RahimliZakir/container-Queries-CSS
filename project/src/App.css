@@ -1,0 +1,7 @@
+.page {
+  max-width: 1000px;
+  margin: 0 auto;
+
+  border: 8px dashed green;
+  min-height: 100px;
+}
